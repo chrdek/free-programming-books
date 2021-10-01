@@ -22,7 +22,7 @@
 * [Perl](#perl)
 * [Python](#python)
 * [R](#r)
-* [Raspberry Pi](#rpi)
+* [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [SQL](#sql)
@@ -166,13 +166,15 @@
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 
+
 ### Raspberry Pi
 
-* [Top 50 General Commands for Raspberry Pi cheatsheet](https://projects-raspberry.com/wp-content/uploads/2018/05/Top-50-Raspberry-pi-commands-List-cheat-sheet.pdf)
-* [Raspberry Pi Basics cheatsheet](https://www.woolseyworkshop.com/wp-content/uploads/WoolseyWorkshop_Cheatsheet_RaspberryPiBasics_v1.4.pdf)
-* [Other Raspberry Pi Commands cheatsheet](https://www.raspberrypistarterkits.com/wp-content/uploads/2018/01/raspberry-pi-commands-cheat-sheet.pdf)
-* [Raspberry Pi Different GPIO Configuration Combinations cheatsheet](https://static.raspberrypi.org/files/education/posters/GPIO_Zero_Ceatsheet.pdf)
-* [Basic GPIO layout configuration cheatsheet](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/cheat_sheet/)
+* [Top 50 General Commands for Raspberry Pi cheatsheet](https://projects-raspberry.com/wp-content/uploads/2018/05/Top-50-Raspberry-pi-commands-List-cheat-sheet.pdf) - Projects Raspberry (PDF)
+* [Raspberry Pi Basics cheatsheet](https://www.woolseyworkshop.com/wp-content/uploads/WoolseyWorkshop_Cheatsheet_RaspberryPiBasics_v1.4.pdf) - Woolsey Workshop (PDF)
+* [Other Raspberry Pi Commands cheatsheet](https://www.raspberrypistarterkits.com/wp-content/uploads/2018/01/raspberry-pi-commands-cheat-sheet.pdf) - RPi starter Kit (PDF)
+* [Raspberry Pi Different GPIO Configuration Combinations cheatsheet](https://static.raspberrypi.org/files/education/posters/GPIO_Zero_Ceatsheet.pdf) - GPIO Zero Cheatsheet (PDF)
+* [Basic GPIO layout configuration cheatsheet](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/cheat_sheet/) - University of Cambridge Computer Laboratory Raspberry Pi Projects Cheatsheet (PDF)
+
 
 ### Ruby
 
